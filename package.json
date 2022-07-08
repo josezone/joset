@@ -1,0 +1,19 @@
+{
+  "name": "joset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FaceTecSDK.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josezone/joset.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josezone/joset/issues"
+  },
+  "homepage": "https://github.com/josezone/joset#readme"
+}
